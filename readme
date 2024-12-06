@@ -2,10 +2,6 @@
 
 ## Features
 
-- Two Difficulty Levels: Choose between `Easy` (slow) and `Hard` (fast) speeds.
-- Score Tracking: Displays your current score during gameplay.
-- Restart Option: Restart the game without quitting when you lose.
-
 
 # Siple Controls
 Arrow Keys: Use the arrow keys to move the snake in four directions (up, down, left, right).
